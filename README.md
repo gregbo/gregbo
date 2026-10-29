@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gregbo
 - 👀 I’m interested in network software engineering
-- 🌱 I’m currently learning Python, C++, and Docker
 - 💞️ I’m looking to collaborate on network standards drafts and open-source projects
 <!---
 - 📫 How to reach me ...
